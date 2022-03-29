@@ -1,9 +1,6 @@
 import os
 import numpy as np
-import matplotlib.pyplot as plt
 from tqdm import tqdm
-from scipy.io import loadmat
-from PIL import Image
 
 import torch
 import torch.optim
