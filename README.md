@@ -10,4 +10,5 @@ MRI影像有各種成像方式，若要分析T1時間常數就要靠T1 mapping�
 
 # References
 [1] https://github.com/milesial/Pytorch-UNet  
-[2] K. Armanious et al., "MedGAN: Medical image translation using GANs", Comput. Med. Imag. Graph., vol. 79, Jan. 2020.
+[2] https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix  
+[3] K. Armanious et al., "MedGAN: Medical image translation using GANs", Comput. Med. Imag. Graph., vol. 79, Jan. 2020.
