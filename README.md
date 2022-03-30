@@ -11,10 +11,9 @@ MRI影像有各種成像方式，若要分析T1時間常數就要靠T1 mapping�
 # Result
 | T1map | synthesis by GAN | synthesis by function |
 |:----------:|:----------:|:----------:|
-|![image](https://github.com/naiyu0609/MedGAN/blob/main/jpg/t1map1.png)|![image](https://github.com/naiyu0609/MedGAN/blob/main/jpg/gan1.png)||![image](https://github.com/naiyu0609/MedGAN/blob/main/jpg/syn1.png)|  
-|![image](https://github.com/naiyu0609/MedGAN/blob/main/jpg/t1map2.png)|![image](https://github.com/naiyu0609/MedGAN/blob/main/jpg/gan2.png)||![image](https://github.com/naiyu0609/MedGAN/blob/main/jpg/syn2.png)|  
-|![image](https://github.com/naiyu0609/MedGAN/blob/main/jpg/t1map3.png)|![image](https://github.com/naiyu0609/MedGAN/blob/main/jpg/gan3.png)||![image](https://github.com/naiyu0609/MedGAN/blob/main/jpg/syn3.png)|  
-
+|![image](https://github.com/naiyu0609/MedGAN/blob/main/jpg/t1map1.png)|![image](https://github.com/naiyu0609/MedGAN/blob/main/jpg/gan1.png)|![image](https://github.com/naiyu0609/MedGAN/blob/main/jpg/syn1.png)|  
+|![image](https://github.com/naiyu0609/MedGAN/blob/main/jpg/t1map2.png)|![image](https://github.com/naiyu0609/MedGAN/blob/main/jpg/gan2.png)|![image](https://github.com/naiyu0609/MedGAN/blob/main/jpg/syn2.png)|  
+|![image](https://github.com/naiyu0609/MedGAN/blob/main/jpg/t1map3.png)|![image](https://github.com/naiyu0609/MedGAN/blob/main/jpg/gan3.png)|![image](https://github.com/naiyu0609/MedGAN/blob/main/jpg/syn3.png)|  
 # References
 [1] https://github.com/milesial/Pytorch-UNet  
 [2] https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix  
